@@ -24,7 +24,7 @@ do estudante de forma divertida.
 ## Prints da tela:
 | Tela HTML/CSS|Tela JavaScript|Primeira rodada|
 |--------------|---------------|---------------|
-| ![tela HTML/CSS](/img/2 etapa.PNG) |               |               |
+| ![tela HTML/CSS](/img/2 etapa.png) |               |               |
 
 ## Codigo principal:
 ```js:
