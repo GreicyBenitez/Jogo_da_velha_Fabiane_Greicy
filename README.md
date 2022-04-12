@@ -19,7 +19,7 @@ do estudante de forma divertida.
 6. [X] Utilização de imagens na parte do layout do site.
 
 ## Disponivel em: 
-[JogodaMemoria] (https://greicybenitez.github.io/Jogo_da_velha_Fabiane_Greicy/)
+[JogodaMemoria](https://greicybenitez.github.io/Jogo_da_velha_Fabiane_Greicy/)
 
 ## Prints da tela:
 | Tela HTML/CSS|Tela JavaScript|Primeira rodada|
