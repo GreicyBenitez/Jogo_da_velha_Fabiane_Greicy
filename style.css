@@ -1,0 +1,48 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: black;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+#logo {
+  width: 100px;
+  right: 100px;
+}
+
+#locallogo {
+  text-align: center;
+}
+
+#Descricao {
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin-top: 40px;
+}
+
+#grade {
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  right: 600px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 130px;
+}
+
+.ponto {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
