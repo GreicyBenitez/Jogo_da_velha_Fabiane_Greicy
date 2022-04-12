@@ -24,7 +24,7 @@ do estudante de forma divertida.
 ## Prints da tela:
 | Tela HTML/CSS|Tela JavaScript|Primeira rodada|
 |--------------|---------------|---------------|
-| ![tela HTML/CSS](https://raw.githubusercontent.com/GreicyBenitez/Jogo_da_velha_Fabiane_Greicy/master/img/2%20etapa.PNG) |               |               |
+| ![tela HTML/CSS](https://raw.githubusercontent.com/GreicyBenitez/Jogo_da_velha_Fabiane_Greicy/master/img/2%20etapa.PNG) | ![tela JavaScript](https://raw.githubusercontent.com/GreicyBenitez/Jogo_da_velha_Fabiane_Greicy/master/img/Tela_funcao.PNG)          | ![primeira rodada](https://raw.githubusercontent.com/GreicyBenitez/Jogo_da_velha_Fabiane_Greicy/master/img/tela_rodada.PNG) |
 
 ## Codigo principal:
 ```js:
