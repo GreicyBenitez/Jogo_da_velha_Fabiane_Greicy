@@ -83,8 +83,8 @@ function escolherCarta() {
             if (carta1.name == carta2.name) {
                 carta1.src = "https://cdn-icons-png.flaticon.com/512/25/25404.png";
                 carta2.src = "https://cdn-icons-png.flaticon.com/512/25/25404.png";
-                carta1.addEventListener("click", escolherCarta);
-                carta2.addEventListener("click", escolherCarta);
+                carta1.addEventListener("click", escolherCarta());
+                carta2.addEventListener("click", escolherCarta());
                 ponto++;
                 pontuacao.innerText = ponto;
             } else {
